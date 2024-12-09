@@ -1,3 +1,21 @@
 <footer class="footer mt-auto py-3">
-  <div class="container footer-container">{% include svg_icons.html %}</div>
+  <div class="container footer-container text-center">
+    {% if page.name="index.html" %}
+    <!-- Pagination links -->
+    <div class="pagination text-center mb-3">
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path }}" class="previous">
+          &lt;
+        </a>
+      {% endif %}
+      <span class="page_number ">
+        {{ paginator.page }} / {{ paginator.total_pages }}
+      </span>
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path }}" class="next">&gt;</a>
+      {% endif %}
+    </div>
+    {% endif %}
+    <div>{% include svg_icons.html %}</div>
+  </div>
 </footer>

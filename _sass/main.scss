@@ -18,7 +18,7 @@ img {
 }
 
 .archive-year {
-  margin-top: 2rem;
+  margin-top: 1rem;
   margin-bottom: 1rem;
 }
 
@@ -46,14 +46,18 @@ img {
   color: #212529;
 }
 
-.footer-icon-links:hover,
-.footer-icon-links:focus {
-  text-decoration: none;
-  color: #212529;
+.post-tags {
+  margin-left: 10px;
+  font-style: italic;
 }
 
-.archive-title {
-  color: #212529;
+.post-tags-within {
+  font-size: 1rem;
+  font-style: italic;
+}
+
+.indiv-tag {
+  text-decoration: underline;
 }
 
 .highlight {
@@ -73,26 +77,11 @@ pre.highlight {
   margin-right: 0.25rem !important;
 }
 
-@media (prefers-color-scheme: dark) {
-  .footer-icon-links {
-    text-decoration: none;
-    color: #e1e1e1;
-  }
+.post-item-size {
+  font-size: 1.2rem;
+  font-weight: normal;
+}
 
-  .footer-icon-links:hover,
-  .footer-icon-links:focus {
-    text-decoration: none;
-    color: #e1e1e1;
-  }
-
-  .archive-title {
-    color: #e1e1e1;
-  }
-
-  .light-avatar {
-    display: none !important;
-  }
-  .dark-avatar {
-    display: inline-block !important;
-  }
+.pagination {
+  display: inline-block;
 }

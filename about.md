@@ -16,7 +16,7 @@ permalink: /about/
 
 - Discuss research in ecological modelling & conservation
 - Suggest opportunities for science public engagement events
-- Talk about commissioning visual art for your research or personally
+- Talk about commissioning visual art for your research or personal use
 - Request help on bryophyte identification in Britain & Ireland
 
 My name is Jun, and I am a biologist with a background in computer science. My interest is in **ecological modelling**, **interdisciplinary conservation**, and their intersection in the **co-design of quantitative models with local communities** and application of such models to inform action that **supports the lives of both humans and more-than-humans**. I am particularly interested in **plants** and **novel ecosystems**.

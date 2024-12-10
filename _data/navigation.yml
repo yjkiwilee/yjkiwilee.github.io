@@ -4,9 +4,9 @@
   link: /about/
 - name: Research
   link: /research/
-- name: Programming
-  link: /programming/
 - name: Public engagement
   link: /public/
+- name: Programming
+  link: /programming/
 - name: Artwork
   link: /art/

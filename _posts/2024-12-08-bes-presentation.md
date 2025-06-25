@@ -4,7 +4,7 @@ title: "\"Pick on someone your own size?\": Come say hi at BES2024!"
 tags: research
 ---
 
-![thumbnail](/assets/images/posts/08122024_bes_illustration.jpg){: width="350" }
+![thumbnail](/assets/images/posts/08122024/bes_illustration.jpg){: width="350" }
 
 **The [British Ecological Society Annual Meeting](https://www.britishecologicalsociety.org/events/bes-annual-meeting-2024/) is just around the corner!** This is my second time attending this fantastic event, and this time, I am joining as a presenter to share **preliminary results of my master's research project**. Together with my supervisors [Roberto Salguero-Gómez](https://www.biology.ox.ac.uk/people/rob-salguero-gomez) and [Christina Hernández](https://www.biology.ox.ac.uk/people/christina-hernandez) in the [SalGo Team](https://www.salgo.ox.ac.uk/) at the University of Oxford and collaborators [Benjamin Blonder](https://benjaminblonder.org/people/principal-investigator/) at UC Berkeley and [Courtenay Ray](https://courtenayray.com/) at the University of Wyoming, I have been busy trying to answer these questions: **Do plants interact differently with their neighbours depending on the life stage of either party**, and if so, **does it matter for community dynamics that they do?**
 

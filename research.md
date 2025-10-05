@@ -31,12 +31,7 @@ Overall, these results suggest that **quantifying stage-specific biotic interact
 
 ### Publications
 
-<style>
-    #pubs .yr {
-        width: 5em; font-style: italic; padding-left: 0;
-    }
-</style>
-<table id="pubs">
+<table class="works">
     <tr>
         <td class="yr">
             2024

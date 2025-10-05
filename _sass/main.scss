@@ -85,3 +85,16 @@ pre.highlight {
 .pagination {
   display: inline-block;
 }
+
+// Works
+
+.works {
+  border: none;
+  background: none;
+}
+.works td {
+  padding-top: 0;
+}
+.works .yr {
+  width: 5em; font-style: italic; padding-left: 0;
+}

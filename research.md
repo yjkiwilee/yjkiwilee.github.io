@@ -4,20 +4,26 @@ title: Research
 permalink: /research/
 ---
 
-### Stage-dependent competition and its impact on coexistence
+### Research projects
 
-![Conceptual diagram of master's research](/assets/images/research/masters_diagram.jpg){: width="550px" }
+#### Stage-dependent competition and its impact on stochastic community dynaimcs
 
-*2024 - Current*
+![Conceptual diagram of master's research](/assets/images/research/masters_roadmap.png){: width="550px" }
+
+*2024 - 2025*
 
 **Do plant interactions depend on the actor & recipient's life stage?**<br>
-**What impact does stage-dependence have on community dynamics and coexistence?**
+**What impact does stage-dependence have on stochastic community dynaimcs?**
 
 Given ontogenetic niche shift, it is expected that the strength and nature of biotic interactions will depend on the interacting organisms' life stage. Despite theoretical work suggesting that stage-dependent interactions could e.g. affect community stability & diversity ([de Roos, 2021](https://doi.org/10.1073/pnas.2023709118)), it remains to be explored (1) **whether interactions are stage-dependent** in empirical communities and (2) how altering stage-dependent interaction effects on specific vital rates could impact **transient/stochastic community dynamics** and the conditions for **long-term coexistence**.
 
 In my master's reserach project, I am investigating these two questions through a combination of statistical analysis on **long-term demographic data from a herbaceous plant community** and simulation approaches using a **two-species stage-structured competition model**.
 
 ### Publications
+
+*In prep.*
+
+
 
 *2023*
 

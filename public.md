@@ -8,7 +8,7 @@ permalink: /public/
 
 Sharing science and love of our living world is not only important, but also fun!
 
-Being involved with the student-led [Oxford University Nature Conservation Society](https://oxconsocorg.wordpress.com/) (OUNCS) has been an invaluable opportunity for me to take part in public engagement for conservation together with our amazing committee members. We work to **promote learning in conservation** by hosting free expert talks, **contribute to local conservation efforts** by collaborating with community groups, and provide a **platform** for like-minded students to network and access information about careers in conservation. If you are based in Oxford, **follow us on our [Instagram](https://www.instagram.com/oxfordconservationsoc/) to keep up to date about our events**!
+Being involved with the student-led [Oxford University Nature Conservation Society](https://oxconsocorg.wordpress.com/) (OUNCS) (2022 - 2025) was an invaluable opportunity for me to take part in public engagement for conservation together with our amazing committee members. We work to **promote learning in conservation** by hosting free expert talks, **contribute to local conservation efforts** by collaborating with community groups, and provide a **platform** for like-minded students to network and access information about careers in conservation. If you are based in Oxford, **follow us on our [Instagram](https://www.instagram.com/oxfordconservationsoc/) to keep up to date about the society events**!
 
 Here are some exciting activities outside the OUNCS which I have been fortunate to be a part of.
 

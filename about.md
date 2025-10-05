@@ -8,7 +8,7 @@ permalink: /about/
 
 [CV](/assets/other/YJ_Lee_CV_122024.pdf) \| [ORCID](https://orcid.org/0000-0002-4989-9956) \|
 [GitHub](https://github.com/yjkiwilee) \| [Bluesky](https://bsky.app/profile/yjmosslee.bsky.social) \| [iNaturalist](https://www.inaturalist.org/people/yjkiwilee)<br>
-[youngjun.lee@chch.ox.ac.uk](mailto:youngjun.lee@chch.ox.ac.uk)
+[youngjun.lee@reuben.ox.ac.uk](mailto:youngjun.lee@reuben.ox.ac.uk)
 
 *My pronouns are they/them.*
 

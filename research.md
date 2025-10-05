@@ -8,20 +8,51 @@ permalink: /research/
 
 #### Stage-dependent competition and its impact on stochastic community dynaimcs
 
-![Conceptual diagram of master's research](/assets/images/research/masters_roadmap.png){: width="550px" }
-
 *2024 - 2025*
 
 **Do plant interactions depend on the actor & recipient's life stage?**<br>
 **What impact does stage-dependence have on stochastic community dynaimcs?**
 
-Given ontogenetic niche shift, it is expected that the strength and nature of biotic interactions will depend on the interacting organisms' life stage. Despite theoretical work suggesting that stage-dependent interactions could e.g. affect community stability & diversity ([de Roos, 2021](https://doi.org/10.1073/pnas.2023709118)), it remains to be explored (1) **whether interactions are stage-dependent** in empirical communities and (2) how altering stage-dependent interaction effects on specific vital rates could impact **transient/stochastic community dynamics** and the conditions for **long-term coexistence**.
+Given ontogenetic niche shift, it is expected that the strength and nature of biotic interactions will depend on the interacting organisms' life stage. Despite theoretical work suggesting that stage-dependent interactions could e.g. affect community stability & diversity ([de Roos, 2021](https://doi.org/10.1073/pnas.2023709118)), it remains to be explored:
 
-In my master's reserach project, I am investigating these two questions through a combination of statistical analysis on **long-term demographic data from a herbaceous plant community** and simulation approaches using a **two-species stage-structured competition model**.
+1. **Whether biotic interactions are stage-dependent** in empirical communities
+2. How altering stage-dependent interaction effects on specific vital rates could impact **stochastic community dynamics**.
+
+In my master's reserach project, I investigated these two questions through a combination of statistical analysis on **long-term demographic data from an alpine herbaceous plant community** and simulation approaches using a **two-species stage-structured competition model**.
+
+For each of my two research questions, I found that:
+
+1. Biotic interactions, and therefore stage dependence, was **not statistically significant** in the empirical community
+2. In the present simulation, **little variation in the stage structure of populations** lead to **minimal impact of stage dependence** on stochastic community dynamics.
+
+Overall, these results suggest that **quantifying stage-specific biotic interactions may not be necessary** for accurate projection of stochastic community dynamics. This work is currently under publication.
+
+![Conceptual diagram of master's research](/assets/images/research/masters_roadmap.png){: width="400px" }
 
 ### Publications
 
+<table>
+    <tr>
+        <td style="width: 12em; font-style: italic">
+            In prep.
+        </td>
+        <td>
+            AAaaaaaaa
+        </td>
+    </tr>
+    <tr>
+        <td>
+            2025
+        </td>
+        <td>
+            AAaaaaaaa
+        </td>
+    </tr>
+</table>
+
 *In prep.*
+
+**Lee, Y. J.**, Hernández, C. M., & Salguero-Gómez, R. (under publication). *Stage-dependent biotic interactions may not be important for stochastic competitive dynamics with little variation in stage structure*.
 
 
 

@@ -39,31 +39,21 @@ Overall, these results suggest that **quantifying stage-specific biotic interact
 <table id="pubs">
     <tr>
         <td class="yr">
-            In prep.
+            2024
         </td>
         <td>
-            **Lee, Y. J.**, Hernández, C. M., & Salguero-Gómez, R. (under publication). *Stage-dependent biotic interactions may not be important for stochastic competitive dynamics with little variation in stage structure*.
+            <strong>Lee, Y. J.</strong>, Sosef, M., Lucas, E., Ung, V., Gill, K., & Nicolson, N. (2024). <i>Automated trait extraction from unstructured species descriptions for species ID: A pilot study using a large language model</i>. <a href="https://doi.org/10.5281/ZENODO.13691936">https://doi.org/10.5281/ZENODO.13691936</a>
         </td>
     </tr>
     <tr>
         <td class="yr">
-            2025
+            2023
         </td>
         <td>
-            AAaaaaaaa
+            Gascoigne, S. J. L., Rolph, S., Sankey, D., Nidadavolu, N., Stell Pičman, A. S., Hernández, C. M., Philpott, M. E. R., Salam, A., Bernard, C., Fenollosa, E., <strong>Lee, Y. J.</strong>, McLean, J., Hetti Achchige Perera, S., Spacey, O. G., Kajin, M., Vinton, A. C., Archer, C. R., Burns, J. H., Buss, D. L., … Salguero‐Gómez, R. (2023). <i>A standard protocol to report discrete stage‐structured demographic information</i>. Methods in Ecology and Evolution, 14(8), 2065–2083. <a href="https://doi.org/10.1111/2041-210X.14164">https://doi.org/10.1111/2041-210X.14164</a>
         </td>
     </tr>
 </table>
-
-*In prep.*
-
-**Lee, Y. J.**, Hernández, C. M., & Salguero-Gómez, R. (under publication). *Stage-dependent biotic interactions may not be important for stochastic competitive dynamics with little variation in stage structure*.
-
-
-
-*2023*
-
-Gascoigne, S. J. L., Rolph, S., Sankey, D., Nidadavolu, N., Stell Pičman, A. S., Hernández, C. M., Philpott, M. E. R., Salam, A., Bernard, C., Fenollosa, E., **Lee, Y. J.**, McLean, J., Hetti Achchige Perera, S., Spacey, O. G., Kajin, M., Vinton, A. C., Archer, C. R., Burns, J. H., Buss, D. L., … Salguero‐Gómez, R. (2023). *A standard protocol to report discrete stage‐structured demographic information*. Methods in Ecology and Evolution, 14(8), 2065–2083. [https://doi.org/10.1111/2041-210X.14164](https://doi.org/10.1111/2041-210X.14164)
 
 ### Presentations
 

@@ -6,7 +6,7 @@ permalink: /research/
 
 ### Research projects
 
-#### Stage-dependent competition and its impact on stochastic community dynaimcs
+#### Quantifying stage-dependent competition and its impact on stochastic community dynaimcs
 
 *2024 - 2025*
 
@@ -31,17 +31,22 @@ Overall, these results suggest that **quantifying stage-specific biotic interact
 
 ### Publications
 
-<table>
+<style>
+    #pubs .yr {
+        width: 5em; font-style: italic; padding-left: 0;
+    }
+</style>
+<table id="pubs">
     <tr>
-        <td style="width: 12em; font-style: italic">
+        <td class="yr">
             In prep.
         </td>
         <td>
-            AAaaaaaaa
+            **Lee, Y. J.**, Hernández, C. M., & Salguero-Gómez, R. (under publication). *Stage-dependent biotic interactions may not be important for stochastic competitive dynamics with little variation in stage structure*.
         </td>
     </tr>
     <tr>
-        <td>
+        <td class="yr">
             2025
         </td>
         <td>

@@ -6,7 +6,7 @@ permalink: /about/
 
 ![profile picture](/assets/images/profile_picture.jpg){: width="300px" }
 
-[CV](/assets/other/YJ_Lee_CV_122024.pdf) \| [ORCID](https://orcid.org/0000-0002-4989-9956) \|
+[CV](/assets/other/YJL_CV_01122025.pdf) \| [ORCID](https://orcid.org/0000-0002-4989-9956) \|
 [GitHub](https://github.com/yjkiwilee) \| [Bluesky](https://bsky.app/profile/yjmosslee.bsky.social) \| [iNaturalist](https://www.inaturalist.org/people/yjkiwilee)<br>
 [youngjun.lee@reuben.ox.ac.uk](mailto:youngjun.lee@reuben.ox.ac.uk)
 
@@ -14,9 +14,7 @@ permalink: /about/
 
 My name is Jun, and I am a software developer turned biologist. My interest is in **ecological modelling**, **interdisciplinary conservation**, and their intersection in the **co-design of quantitative models with local communities** and application of such models to inform action that **supports the lives of both humans and more-than-humans**. I am particularly interested in **plants** and **novel ecosystems**.
 
-I am an integrated master's student in Biology at the University of Oxford developing a [thesis project](/research/) quantifying **life stage-dependent interaction** between plants and modelling the impact of such stage-dependence on **community dynamics** and **coexistence**. I am supervised by [Dr Christina Hernández](https://www.biology.ox.ac.uk/people/christina-hernandez) and [Dr Roberto Salguero-Gómez](https://www.biology.ox.ac.uk/people/rob-salguero-gomez) in the [SalGo Team](https://www.salgo.ox.ac.uk/), and collaborating with [Prof Benjamin Blonder](https://benjaminblonder.org/people/principal-investigator/) at UC Berkeley and [Dr Courtenay Ray](https://courtenayray.com/) at the University of Wyoming.
-
-I am the current Vice President and previous President of the **[Oxford University Nature Conservation Society](https://oxconsocorg.wordpress.com/)** (OUNCS) ([Instagram](https://www.instagram.com/oxfordconservationsoc/)), a student-led society that aims to **promote learning in conservation** and **engage students with the local community for conservation action**.
+I am a first-year PhD student in the [Intelligent Earth Centre for Doctoral Training](https://intelligent-earth.ox.ac.uk/home) programme at the University of Oxford, funded by [UK Research and Innovation](https://www.ukri.org/). My current research interest is in the use of **machine learning** for **causal inference in complex ecological datasets** and **quantification of uncertainty in ecological forecasts**. For these problems, I am planning to apply methods such as **recurrent neural networks** & **neural differential equations** for time-series predictions, **graph neural networks** for predicting changes in ecological interaction networks, and **explainable AI methods** to develop ecological models with both predictive power and interpretability for inference.
 
 **Bryophytes** first inspired me to study biology, and I continue to enjoy my visits to their small but beautiful worlds. I am a member of the [British Bryological Society](https://www.britishbryologicalsociety.org.uk/), from where I have gained much of my bryological knowledge.
 
